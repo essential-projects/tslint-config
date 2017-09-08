@@ -1,6 +1,6 @@
 {
   "name": "@process-engine-js/tslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tslint config for the process-engine",
   "main": "index.js",
   "repository": {
