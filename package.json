@@ -1,0 +1,22 @@
+{
+  "name": "@process-engine-js/tslint-config",
+  "version": "1.0.0",
+  "description": "tslint config for the process-engine",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProcessEngineJS/tslint-config.git"
+  },
+  "author": "Heiko Mathes <heiko.mathes@5minds.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProcessEngineJS/tslint-config/issues"
+  },
+  "dependencies": {
+    "tslint-config-5minds": "^1.0.5"
+  },
+  "peerDependencies": {
+    "tslint": "^5.1.0",
+    "typescript": "^2.1.4"
+  }
+}
