@@ -1,3 +1,6 @@
 {
-  "extends": "tslint-config-5minds"
+  "extends": "tslint-config-5minds",
+  "rules": {
+    "no-any": false
+  }
 }
