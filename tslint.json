@@ -1,6 +1,8 @@
 {
-  "extends": "tslint-config-5minds",
+  "extends": "tslint-eslint-config-5minds",
   "rules": {
-    "no-any": false
+    "no-any": false,
+    "cyclomatic-complexity": [true, 10],
+    "max-file-line-count": [true, 500]
   }
 }
