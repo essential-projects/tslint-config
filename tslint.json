@@ -1,5 +1,5 @@
 {
-  "extends": "tslint-config-5minds",
+  "extends": "tslint-eslint-config-5minds",
   "rules": {
     "no-any": false
   }
