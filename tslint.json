@@ -1,6 +1,7 @@
 {
   "extends": "tslint-eslint-config-5minds",
   "rules": {
-    "no-any": false
+    "no-any": false,
+    "cyclomatic-complexity": [true, 10]
   }
 }
