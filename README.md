@@ -1,11 +1,11 @@
 # TSLint config for process-engine packages
 
-- install with `npm install --save-dev @process-engine-js/tslint-config`
+- install with `npm install --save-dev @essential-projects/tslint-config`
 - create a tslint.json in your project with the following content:
 
 ```json
 {
-    "extends": "@process-engine-js/tslint-config"
+    "extends": "@essential-projects/tslint-config"
 }
 ````
 

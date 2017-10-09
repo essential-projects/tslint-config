@@ -1,5 +1,5 @@
 {
-  "name": "@process-engine-js/tslint-config",
+  "name": "@essential-projects/tslint-config",
   "version": "1.1.0",
   "description": "tslint config for the process-engine",
   "main": "index.js",
