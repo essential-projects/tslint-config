@@ -1,6 +1,6 @@
 {
   "name": "@essential-projects/tslint-config",
-  "version": "1.0.0-rc5",
+  "version": "1.0.0",
   "description": "tslint config for the process-engine",
   "main": "index.js",
   "repository": {
