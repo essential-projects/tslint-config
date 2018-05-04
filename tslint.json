@@ -3,6 +3,7 @@
   "rules": {
     "no-any": false,
     "cyclomatic-complexity": [true, 10],
-    "max-file-line-count": [true, 500]
+    "max-file-line-count": [true, 500],
+    "import-blacklist": [true,  "lodash", "ramda", "rxjs"],
   }
 }
