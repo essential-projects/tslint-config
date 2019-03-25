@@ -5,6 +5,7 @@
     "cyclomatic-complexity": [true, 25],
     "max-file-line-count": [true, 1000],
     "no-inferrable-types": false,
+    "no-namespace": false,
     "import-blacklist": [true,  "lodash", "ramda", "rxjs"]
   }
 }
