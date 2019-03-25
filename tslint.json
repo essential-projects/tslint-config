@@ -2,8 +2,9 @@
   "extends": "tslint-eslint-config-5minds",
   "rules": {
     "no-any": false,
-    "cyclomatic-complexity": [true, 10],
-    "max-file-line-count": [true, 500],
+    "cyclomatic-complexity": [true, 25],
+    "max-file-line-count": [true, 1000],
+    "no-inferrable-types": false,
     "import-blacklist": [true,  "lodash", "ramda", "rxjs"]
   }
 }
