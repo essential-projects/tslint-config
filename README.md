@@ -1,3 +1,8 @@
+# DEPRECATED
+
+TSLint has been replaced by ESlint.
+Use ESLint and our [ESLint-config](https://github.com/essential-projects/eslint-config) instead!
+
 # TSLint config for process-engine packages
 
 - install with `npm install --save-dev @essential-projects/tslint-config`
